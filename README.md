@@ -21,5 +21,5 @@ MEDICABINET est une application de gestion d'un cabinet médical, développée e
 
 ## Contributeurs
 
-- [Chentoui Abdelali](https://github.com/contributeur-1)
-- [El Hajoui Meriyem](https://github.com/contributeur-2)
+- [Chentoui Abdelali](https://github.com/AbdelaliChe)
+- [El Hajoui Meriyem](https://github.com/Meriyemelhajoui)
