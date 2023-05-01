@@ -19,6 +19,20 @@ MEDICABINET est une application de gestion d'un cabinet médical, développée e
 - Ajoutez des traitements pour chaque patient.
 - Recherchez des patients ou rendez-vous spécifiques.
 
+## Aperçu de l'application
+![Screenshot 0](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/IMG-1st-SCREEN.jpg)
+
+![Screenshot 1](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP1.png)
+
+![Screenshot 2](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP2.png)
+
+![Screenshot 3](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP3.png)
+
+![Screenshot 4](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP4.png)
+
+![Screenshot 5](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP5.png)
+
+
 ## Contributeurs
 
 - [Chentoui Abdelali](https://github.com/AbdelaliChe)
