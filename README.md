@@ -1,25 +1,25 @@
 # MEDICABINET-APP
 
-MEDICABINET est une application de gestion d'un cabinet médical, développée en langage C avancé. Elle permet de gérer les patients, les rendez-vous et les traitements de manière efficace, fiable, complètement informatisée et bien organisée.
+MEDICABINET is a medical practice management application developed in advanced C language. It allows for efficient, reliable, fully computerized, and well-organized management of patients, appointments, and treatments.
 
-## Fonctionnalités principales
+## Main features
 
-- Gestion des patients: ajout, suppression, modification et recherche de patients.
-- Gestion des rendez-vous: planification, modification et annulation de rendez-vous.
-- Gestion des traitements: ajout, modification et suppression de traitements pour chaque patient.
-- Stockage des données dans des fichiers pour une utilisation ultérieure.
+- Patient management: adding, deleting, modifying, and searching for patients.
+- Appointment management: scheduling, modifying, and canceling appointments.
+- Treatment management: adding, modifying, and deleting treatments for each patient.
+- Storage of data in files for future use.
 
-## Exigences
-- Un compilateur C avancé, tel que GCC.
-- Un système d'exploitation compatible avec GCC.
+## Requirements
+- An advanced C compiler, such as GCC.
+- An operating system compatible with GCC.
 
-## Utilisation
-- Ajoutez des patients.
-- Planifiez des rendez-vous pour les patients.
-- Ajoutez des traitements pour chaque patient.
-- Recherchez des patients ou rendez-vous spécifiques.
+## Utilization
+- Add patients.
+- Schedule appointments for patients.
+- Add treatments for each patient.
+- Search for specific patients or appointments.
 
-## Aperçu de l'application
+## Application overview
 ![Screenshot 0](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/IMG-1st-SCREEN.jpg)
 
 ![Screenshot 1](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP1.png)
@@ -33,7 +33,7 @@ MEDICABINET est une application de gestion d'un cabinet médical, développée e
 ![Screenshot 5](https://github.com/nassimBenmamoun/MEDICABINET-APP/blob/main/ScreenShots/MEDICABINET-APP5.png)
 
 
-## Contributeurs
+## Contributors
 
 - [Chentoui Abdelali](https://github.com/AbdelaliChe)
 - [El Hajoui Meriyem](https://github.com/Meriyemelhajoui)
